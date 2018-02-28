@@ -1,0 +1,6 @@
+C:\Users\Nasfia\documents\visual studio 2015\Projects\TestCase\TestCase\bin\Release\TestCase.exe.config
+C:\Users\Nasfia\documents\visual studio 2015\Projects\TestCase\TestCase\bin\Release\TestCase.exe
+C:\Users\Nasfia\documents\visual studio 2015\Projects\TestCase\TestCase\bin\Release\TestCase.pdb
+C:\Users\Nasfia\documents\visual studio 2015\Projects\TestCase\TestCase\obj\Release\TestCase.exe
+C:\Users\Nasfia\documents\visual studio 2015\Projects\TestCase\TestCase\obj\Release\TestCase.pdb
+C:\Users\Nasfia\Documents\Visual Studio 2015\Projects\TestCase\TestCase\obj\Release\TestCase.csprojResolveAssemblyReference.cache

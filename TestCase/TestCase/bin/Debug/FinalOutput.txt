@@ -1,0 +1,1200 @@
+Parazoa contains
+(a) Multicellular body 
+(b) Tissues 
+(c) Organ system 
+(d) All of them
+ANSWER:A
+
+Metazoa contains
+(a) Multicellular body 
+(b) Tissues 
+(c) Organ system 
+(d) All of them
+ANSWER:D
+
+Gametes produced in parazoa are
+(a) Similar 
+(b) Dissimilar 
+(c) Motile 
+(d) Large
+ANSWER:B
+
+Largest animals are included in
+(a) Phylum chordata 
+(b) Phylum platyhehninthes
+(c) Phylum mollusca 
+(d) Phylum arthropoda
+ANSWER:A
+
+Simplest of organisms are included in
+(a) Porifera 
+(b) Coelenterata 
+(c) Nematoda 
+(d) Echinodermata
+ANSWER:A
+//2
+Simplest of EUMETAZOA are
+(a) Porifera 
+(b) Protozoa
+(c) Cnidara
+(d) Hemichordata
+ANSWER:C
+
+Animals with radial symmetry are
+(a) Diploblastic 
+(b) Triploblastic
+(c) Both a and b
+(d) None of them
+ANSWER:A
+
+Animals with bilateral symmetry are
+(a) Diploblastic 
+(b) Triploblastic
+(c) Both a and b
+(d) None of them
+ANSWER:A
+
+Symmetry of adult ECHINODERM is
+(a) Radial 
+(b) Bilateral
+(c) Asymmetrical
+(d) None of them
+ANSWER:A
+
+Symmetry of Larvae of echinoderm is
+(a) Radial 
+(b) Bilateral
+(c) Asymmetrical
+(d) None of them
+ANSWER:B
+
+In protostome, blastopore forms
+(a) Mouth 
+(b) Anus
+(c) Stomach
+(d) Oesophagus
+ANSWER:A
+
+In deuterostomeS, blastopore forms
+(a) Mouth 
+(b) Anus
+(c) Stomach
+(d) Oesophagus
+ANSWER:B
+
+Body cavity of deuterostomes is formed from
+(a) Mesoderm 
+(b) Endoderm
+(c) Ectoderm
+(d) None of them
+ANSWER:D
+
+Body cavity of proterostomes is formed from
+(a) Mesoderm 
+(b) Endoderm
+(c) Ectoderm
+(d) Archenteron
+ANSWER:A
+
+Cleavage is spiral in
+(a) Proterostomes 
+(b) Deuterostomes
+(c) Both a and b
+(d) None of them
+ANSWER:A
+
+Cleavage is radial in
+(a) Proterostomes 
+(b) Deuterostomes
+(c) Both a and b
+(d) None of them
+ANSWER:B
+
+Mesoglea is found in 
+(a) Diploblasts 
+(b) Triploblasts
+(c) All of them
+(d) None of them
+ANSWER:A
+
+Usually mesoglea is
+(a) Unicellular 
+(b) Multicellular
+(c) Non-cellular
+(d) None of them
+ANSWER:C
+
+Transport in diploblast takes place by
+(a) Blood vessels 
+(b) Lymph vessels
+(c) Diffusion
+(d) All of them
+ANSWER:C
+
+Central nervous system of diploblasts is
+(a) Well developed 
+(b) Poorly developed
+(c) Rudimentary
+(d) Absent
+ANSWER:D
+
+Cavity of diploblasts is termed as
+(a) Coelom 
+(b) Body cavity
+(c) Buccal cavity
+(d) Gastrovascular cavity
+ANSWER:D
+
+Mouth of diploblasts performs
+(a) Ingestion 
+(b) Excretion
+(c) Both a and b
+(d) None of them
+ANSWER:C
+
+Shape of digestive system of diploblasts is
+(a) Scale-like 
+(b) Sac-like
+(c) Tube-like
+(d) Coiled
+ANSWER:B
+
+Integumentary system is evolved from
+(a) Ectoderm 
+(b) Endoderm
+(c) Mesoderm
+(d) Mesoglea
+ANSWER:A
+
+Reproductive system is evolved from
+(a) Ectoderm 
+(b) Endoderm
+(c) Mesoderm
+(d) Mesoglea
+ANSWER:C
+
+Liver is evolved from
+(a) Ectoderm 
+(b) Endoderm
+(c) Mesoderm
+(d) Mesoglea
+ANSWER:B
+
+Shape of digestive system of triploblast is
+(a) Scale-like 
+(b) Sac-like
+(c) Tube-like
+(d) Coiled
+ANSWER:C
+
+Mouth of triploblast is present at
+(a) Anterior end 
+(b) Posterior end
+(c) Medial end
+(d) Lateral end
+ANSWER:A
+
+Anus of triploblast is present at
+(a) Anterior end 
+(b) Posterior end
+(c) Medial end
+(d) Lateral end
+ANSWER:B
+//3
+Flame cells are present in
+(a) Acoelomates 
+(b) Pseudocoelomates 
+(c) Coelomates 
+(d) All of them
+ANSWER:A
+
+Nervous system of acoeloniates is
+(a) Well developed 
+(b) Poorly developed 
+(c) Rudimentary 
+(d) Absent
+ANSWER:A
+
+Pseudocoelom is the space between
+(a) Ectoderm and endoclerm 
+(b) Ectoderm and mesoderm
+(c) Mesoderm and endoderm 
+(d) Digestive tube and body wall
+ANSWER:D
+
+Pseudocoelom has developed from
+(a) Mesoderm 
+(b) Endoderm 
+(c) Ectoderm 
+(d) Blastocoel
+ANSWER:D
+
+Pseudocoelom is bounded externally by
+(a) Muscles 
+(b) Cuticle of intestine 
+(c) Mesoderm 
+(d) Ectoderm
+ANSWER:A
+
+Pseudocoeloni is bounded internally by
+(a) Muscles 
+(b) Cuticle of intestine 
+(c) Mesoderm 
+(d) Endoderm
+ANSWER:B
+
+Coelom is present between
+(a) Body wall and digestive tube 
+(b) Body wall and alimentary canal
+(c) Body wall and ectoderm 
+(d) Ectoderm and endoderm
+ANSWER:B
+
+Parietal mesoderm underlines
+(a) Body wall 
+(b) Alimentary canal 
+(c) Viscera 
+(d) All of them
+ANSWER:A
+
+Visceral mesoderm covers
+(a) Body wall 
+(b) Alimentary canal 
+(c) Both a and b 
+(d) None of them
+ANSWER:B
+
+Sponge is a
+(a) Parazoan 
+(b) Metazoan 
+(c) Protozoan 
+(d) None of them
+ANSWER:A
+
+Pinacoderm is
+(a) An outer layer 
+(b) An inner layer
+(c) A middle layer 
+(d) Visceral layer of mesoderm
+ANSWER:A
+
+Choanoderm is
+(a) An outer layer
+(b) An inner layer
+(c) A middle layer 
+(d) Visceral layer of mesoderm
+ANSWER:B
+
+Cavity of parazoans is termed as
+(a) Coelom 
+(b) Pseudocoelom 
+(c) Enteron 
+(d) Spongocoel
+ANSWER:D
+
+Choanocytes are
+(a) Ciliated cells 
+(b) Flagellated cells 
+(c) Pseudopodial cells 
+(d) None of them
+ANSWER:D
+
+Water enters in sponges through
+(a) Mouth 
+(b) Anus 
+(c) Ostia 
+(d) Osculum
+ANSWER:C
+
+Water excretes in sponges through
+(a) Mouth 
+(b) Anus 
+(c) Ostia 
+(d) Osculum
+ANSWER:D
+
+Function of choanocytes is
+(a) Offense 
+(b) Defense 
+(c) Ingestion 
+(d) Egestion
+ANSWER:C
+
+Skeleton of sycon is formed by
+(a) Choanocytes 
+(b) Spicule 
+(c) Spongecoel 
+(d) None of them
+ANSWER:D
+
+Spicule may be
+(a) Calcareous 
+(b) Silicious 
+(c) Both a and b 
+(d) None of them
+ANSWER:C
+
+Poriferas reproduce asexually by
+(a) Budding 
+(b) Regeneration 
+(c) Binary fission 
+(d) Multiple fission
+ANSWER:A
+
+Gemmules are
+(a) Internal buds 
+(b) External buds 
+(c) Hermaphrodites 
+(d) Unisexual
+ANSWER:A
+
+Protandrous are
+(a) Internal buds 
+(b) External buds 
+(c) Hermaphrodites 
+(d) Unisexual
+ANSWER:C
+//4
+Cnidocytes are present in
+(a) Porifera 
+(b) Coelonterata 
+(c) Platyhelminthes 
+(d) Mollusca
+ANSWER:B
+
+Cnidocytes give rise to
+(a) Nematocytes 
+(b) Pinacocytes 
+(c) Choanocytes 
+(d) Flame cell
+ANSWER:A
+
+Nematocysts are evolved from
+(a) Ectoderm 
+(b) Endoderm 
+(c) Mesoderm 
+(d) Mesoglia
+ANSWER:A
+
+Enteron is a
+(a) Body cavity 
+(b) Digestive cavity 
+(c) Both a and b 
+(d) None of them
+ANSWER:C
+
+Mouth of Hydra performs the function of
+(a) Ingestion 
+(b) Excretion 
+(c) Both a and b 
+(d) Digestion
+ANSWER:C
+
+Polyps perform function of
+(a) Nutrition 
+(b) Excretion 
+(c) Circulation 
+(d) Respiration
+ANSWER:A
+
+Gonads are present in
+(a) Polyp 
+(b) Medusae 
+(c) Both a and b 
+(d) None of them
+ANSWER:B
+
+Nematocyst performs function of
+(a) Offense 
+(b) Defense 
+(c) Both a and b 
+(d) Digestion
+ANSWER:C
+
+Circulation in coelenterates takes place by
+(a) Blood vessels 
+(b) Lymph vessels 
+(e) Both a and b 
+(d) Diffusion
+ANSWER:D
+
+Exoskeleton of coelenterates is made up of
+(a) CaCO3 
+(b) Si02 
+(c) Both a and b 
+(d) Ca(HCO3)2
+ANSWER:A
+
+Exoskeleton of coelenterates is formed by
+(a) Ectoderm 
+(b) Endoderm 
+(c) Mesoderm 
+(d) Mesoglea
+ANSWER:A
+
+Individual member of coelenterate colony is termed as
+(a) Polyp 
+(b) Medusae 
+(c) Both a and b 
+(d) Zooid
+ANSWER:D
+
+Blastostyle reproduces
+(a) Asexually 
+(b) Sexually 
+(c) Both a and b 
+(d) None of them
+ANSWER:C
+
+Diploid generation of coelenterates are
+(a) Polyps 
+(b) Medusae 
+(c) Both a and b 
+(d) None of them
+ANSWER:C
+
+Gastrozoids reproduce
+(a) Asexually 
+(b) Sexually 
+(c) Both a and b 
+(d) None of them
+ANSWER:A
+
+Gonozooids reproduce
+(a) Asexually 
+(b) Sexually 
+(c) Both a and b 
+(d) None of them
+ANSWER:A
+
+Coral reefs are formed by
+(a) Porifera 
+(b) Coelonterata 
+(c) Platyhelminthes 
+(d) Mollusca
+ANSWER:B
+
+Body of flatworms is compressed
+(a) Dorsoventrally 
+(b) Ventrodorsally 
+(c) Anteromedially 
+(d) Posterolaterally
+ANSWER:A
+
+Excretion in tapeworms is performed by
+(a) Mouth 
+(b) Anus 
+(c) Flame cells 
+(d) Naphridea
+ANSWER:C
+
+Nervous system of liver fluke consists of
+(a) Nerves 
+(b) Ganglia 
+(c) Both a and b 
+(d) Brain
+ANSWER:C
+
+Planaria feeds on
+(a) Small animals 
+(b) Dead animals 
+(c) Decaying animals 
+(d) All of them
+ANSWER:D
+
+Tapeworms reproduce asexually by
+(a) Budding 
+(b) Regeneration 
+(c) Binary fission 
+(d) Multiple fission
+ANSWER:B
+
+Platyhelminthes move by
+(a) Cilia 
+(b) Flagella 
+(c) Pseudopodia 
+(d) Tube feet
+ANSWER:A
+
+Epidermis of parasites is
+(a) Well developed 
+(b) Poorly developed 
+(c) Rudimentary 
+(d) Absent
+ANSWER:D
+//5
+Embryo of tapeworm is developed in
+(a) Uterus 
+(b) Oviduct 
+(c) Fallopian tube 
+(d) Ovary
+ANSWER:A
+
+Shape of tapeworm embryo is
+(a) Round 
+(b) Cylindrical 
+(c) Slender 
+(d) Scale-like
+ANSWER:A
+
+Number of hooks present in embryo of tapeworm are
+(a) 4 
+(b) 6 
+(c) 14 
+(d) 16
+ANSWER:B
+
+Hooks of tapeworm are made up of
+(a) CaCO3 
+(b) Silica 
+(c) Chitin 
+(d) None of them
+ANSWER:C
+
+The word nematoda means
+(a) Tapeworm 
+(b) Flat worm 
+(c) Round worm 
+(d) Pointed ends
+ANSWER:D
+
+Body cavity of round worms Is evolved from
+(a) Chorion 
+(b) Archenteron 
+(c) Mesoderm 
+(d) Blastocoel
+ANSWER:D
+
+Anus of nematodes is present at :
+(a) Anterior end 
+(b) Posterior end 
+(c) Antero-posterior end 
+(d) Absent
+ANSWER:B
+
+Number of longitudinally running excretory canals in nematodes is
+(a) 2 
+(b) 4 
+(c) 6 
+(d) 8
+ANSWER:B
+
+Excretory pore of nematodes is present on
+(a) Anterior surface 
+(b) Posterior surface 
+(c) Dorsal surface 
+(d) Ventral surface
+ANSWER:D
+
+Nerve ring of nematodes is present around
+(a) Lips 
+(b) Pharynx 
+(c) Oesophagus 
+(d) Stomach
+ANSWER:B
+
+Papillae are
+(a) Digestive glands 
+(b) Reproductive cells
+(c) Organs of locomotion 
+(d) Sensory organs
+ANSWER:D
+
+Papillae are present in
+(a) Eyes 
+(b) Ears 
+(c) Lips 
+(d) Nose
+ANSWER:C
+
+Number of bands of muscles in Ascaris are
+(a) 1 
+(b) 2 
+(c) 4 
+(d) 8
+ANSWER:C
+
+Bands of muscles are arranged in round worm
+(a) Dorso lateral 
+(b) Ventro lateral 
+(c) Both a and b 
+(d) Dorso medial
+ANSWER:C
+
+Circular muscles of ascaris are
+(a) Well developed 
+(b) Poorly developed 
+(c) Rudimentary 
+(d) Absent
+ANSWER:D
+
+Prostomium is a part of
+(a) Nervous system 
+(b) Digestive system 
+(c) Respiratory system 
+(d) Circulatory system
+ANSWER:B
+
+Hydrostatic skeleton of annelids is formed by
+(a) Mesoglea 
+(b) Mesoderm 
+(c) Coelomic fluid 
+(d) Nematocysts
+ANSWER:C
+
+Nerds excretes with the help of
+(a) Mouth 
+(b) Anus 
+(c) Flame cells 
+(d) Nephridia
+ANSWER:D
+
+Brain of Nereis is
+(a) Well developed 
+(b) Simple 
+(c) Rudimentary 
+(d) Absent
+ANSWER:B
+
+Nerves of segmented worms arise from :
+(a) Brain 
+(b) Nerve Cord 
+(c) Spinal cord 
+(d) Ganglion
+ANSWER:B
+
+Circulation of earthworm takes place by
+(a) Blood vessels 
+(b) Lymph vessels 
+(c) Diffusion 
+(d) Active transport
+ANSWER:A
+
+Respiration in leech takes place in
+(a) Lungs 
+(b) Alveoli 
+(c) Skin 
+(d) Trachea
+ANSWER:C
+
+Anneids move with the help of
+(a) Setae 
+(b) Cilia 
+(c) Flagella 
+(d) Pseudopodia
+ANSWER:A
+
+Nereis move with the help of
+(a) Setae 
+(b) Cilia 
+(c) Flagella 
+(d) Pseudopodia
+ANSWER:D
+//6
+Setae are made up of
+(a) CaCO3 
+(b) Si02 
+(c) Chitin 
+(d) Lignin
+ANSWER:C
+
+FertilizatiOn in annelids is
+(a) Internal 
+(b) External 
+(c) Both a and b 
+(d) Absent
+ANSWER:D
+
+Palps are present around
+(a) Head 
+(b) Neck 
+(c) Tail 
+(d) Abdomen
+ANSWER:A
+
+Polychaeta moves by
+(a) Setae 
+(b) Pseudopodia 
+(c) Parapodia 
+(d) Cilia
+ANSWER:C
+
+Segmentation in Oligochaeta is
+(a) Internal 
+(b) External 
+(c) Both a and b 
+(d) Absent
+ANSWER:C
+
+Oligochaeta moves by
+(a) Setae 
+(b) Pseudopodia 
+(c) Parapodia 
+(d) Cilia
+ANSWER:A
+
+Suckers are present in
+(a) Polychaeta 
+(b) Oligochaeta 
+(c) Hirudinea 
+(d) All of them
+ANSWER:
+
+Distinct head is present in
+(a) Polychaeta 
+(b) Oligochaeta 
+(c) Hirudinea 
+(d) All of them
+ANSWER:A
+
+Annuli are present in
+(a) Polychaeta 
+(b) Oligochaeta 
+(c) Hirudinea 
+(d) All of them
+ANSWER:C
+
+Most diverse phyla are
+(a) Nematodes 
+(b) Arthropods 
+(c) Molluscas 
+(d) Echinoderlnts
+ANSWER:B
+
+Appendages are found in
+(a) Annelids 
+(b) Arthropods 
+(c) Both a and b 
+(d) Parazons
+ANSWER:C
+
+Cuticle is made up of
+(a) CaCO3 
+(b) Si02 
+(c) Chitin 
+(d) Lignin
+ANSWER:C
+
+Cuticle is secreted by
+(a) Ectoderm 
+(b) Mesoderm 
+(c) Endoderm 
+(d) Epidermis
+ANSWER:D
+
+Body cavity of arthropods is termed as
+(a) Coelom 
+(b) Pseudocoelom 
+(c) Spongocoel 
+(d) Haemocoel
+ANSWER:D
+
+Haemocoel Communicates with
+(a) Blood vascular system 
+(b) Digestive system 
+(c) Respiratory system 
+(d) Excretory system
+ANSWER:A
+
+Excretory system of arthropods consists of
+(a) Flame cells 
+(b) Naphredia 
+(c) Malpighian tubules 
+(d) None of them
+ANSWER:C
+
+Mosquito excretes nitrogenous wastes in the form of
+(a) Urea 
+(b) Uric acid 
+(c) NO 
+(d) NO2
+ANSWER:D
+
+Nerves of butterflies arise from
+(a) Brain 
+(b) Nerve Coral 
+(c) Spinal coral 
+(d) Ganglia
+ANSWER:D
+
+Antennae of grasshopper are
+(a) Digestive glands 
+(b) Reproductive organs 
+(c) Respiratory tubes 
+(d) Sense organs
+ANSWER:D
+
+Respiratory system of arthropods consists of
+(a) Malpighian tubules 
+(b) Lungs 
+(c) Bronchi 
+(d) Tracheae
+ANSWER:D
+
+Trachea opens to exterior through
+(a) Nose 
+(b) Mouth 
+(c) Spiracle 
+(d) Osculum
+ANSWER:C
+
+Aquatic arthropods respire though
+(a) Lungs 
+(b) Skin 
+(c) Gills 
+(d) All of them
+ANSWER:C
+
+The larva resembling the adult is termed as
+(a) Trochopore larva 
+(b) Nymph 
+(c) Both a and b 
+(d) None of them
+ANSWER:B
+
+Arthropods move by
+(a) Parapodia 
+(b) Setae 
+(c) Paired wings 
+(d) Cilia
+ANSWER:C
+//7
+Carapace is the part of
+(a) Exoskeleton 
+(b) Endoskeleton 
+(c) Hydroskeleton 
+(d) All of them
+ANSWER:A
+
+Appendages are modified to perform
+(a) Locomotion 
+(b) Respiration 
+(c) Reproduction 
+(d) All of them
+ANSWER:D
+
+Mandibles are present on
+(a) Head 
+(b) Neck 
+(c) Abdomen 
+(d) All of them
+ANSWER:A
+
+Largest group of animals are placed in class
+(a) Amphibia 
+(b) Insecta 
+(c) Crustacea 
+(d) Myriapoda
+ANSWER:B
+
+Three segments of insects are present on
+(a) Abdomen 
+(b) Thorax 
+(c) Pelvis 
+(d) Heael
+ANSWER:B
+
+Position of nevre cords of insects is
+(a) Dorsal 
+(b) Ventral 
+(c) Medial 
+(d) Lateral
+ANSWER:B
+
+Cephalothorax is formed by fusion of
+(a) Anterior segment 
+(b) Posterior segment 
+(c) Medial segment 
+(d) Lateral segment
+ANSWER:A
+
+Antennae are absent in
+(a) Myriapoda 
+(b) Arachnida 
+(c) Insecta 
+(d) Crustacea
+ANSWER:B
+
+Function of book lungs is
+(a) Digestion 
+(b) Excretion 
+(c) Reproduction 
+(d) Respiration
+ANSWER:D
+
+Chitin is made up of
+(a) Carbohydrates 
+(b) Proteins 
+(c) Both a and b 
+(d) CaCO3
+ANSWER:C
+
+In ecdysis the exoskeleton
+(a) Sheds off 
+(b) Regenerates 
+(c) Becomes thick 
+(d) Becomes thin
+ANSWER:A
+
+Tryponosoma causes
+(a) Cholera 
+(b) Hepatitis 
+(c) Diarrhea 
+(d) Skin diseases
+ANSWER:D
+
+Largest invertebrate animal is
+(a) Sycon 
+(b) Squid 
+(c) Jelly fish 
+(d) Whale
+ANSWER:B
+
+Mantle is the characteristic feature of
+(a) Arthropoda 
+(b) Echinodermata 
+(c) Mollusca 
+(d) Hemichordata
+ANSWER:C
+
+Functionally mantle serves as
+(a) An enzyme 
+(b) A co-enzyme 
+(c) A hormone 
+(d) A gland
+ANSWER:D
+
+Function of mantle is
+(a) Reproduction 
+(b) Respiration 
+(c) Locomotion 
+(d) Protection
+ANSWER:D
+
+Secretions of mantle consists of
+(a) CaCO3 
+(b) Si02 
+(c) Chitin 
+(d) All of them
+ANSWER:A
+
+Foot of mollusca lies
+(a) Dorsally 
+(b) Ventrally 
+(c) Medially 
+(d) Laterally
+ANSWER:B
+
+Viscera of snail lies
+(a) Dorsally 
+(b) Ventrally 
+(c) Medially  
+(d) Laterally
+ANSWER:A
+
+Radula is the characteristic feature of
+(a) Sycon 
+(b) Spiders 
+(c) Squids 
+(d) All of them
+ANSWER:C
+
+Radula serves as a
+(a) Digestive gland 
+(b) Respiratory tube 
+(c) Protective covering 
+(d) Rasping tongue
+ANSWER:D
+
+Cephalopods excretes by
+(a) Flame cells 
+(b) Nephridia 
+(c) Malpighian tubules 
+(d) Spiracles
+ANSWER:B
+
+Colour of Haemocyanin is
+(a) Red 
+(b) Purple 
+(c) Blue 
+(d) Colourless
+ANSWER:C
+
+Haemocyanin is a
+(a) Digestive enzyme 
+(b) Endocrine harmone 
+(c) Respiratory pigment 
+(d) Anticoagulant
+ANSWER:C
+//8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
